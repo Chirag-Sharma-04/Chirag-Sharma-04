@@ -21,7 +21,7 @@
 ### 🛠️ Skills & Tools
 
 - **Languages**: Python, C++, Embedded C  
-- **Frameworks & Tools**: ROS2, MoveIt2, Gazebo, RViz, MavLink, MavROS, Node-RED  
+- **Frameworks & Tools**: ROS2, MoveIt2, Gazebo, RViz, MavLink, MavROS, Node-RED, Dronekit
 - **Hardware**: Raspberry Pi, ESP32, Pixhawk, LiDAR, Sensors  
 - **Software**: GitHub, Docker, Linux, CAD Design, PCB Design, ABB Robot Studio  
 
