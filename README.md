@@ -39,10 +39,15 @@
 
 ### 🧠 Projects
 
-- 🛠️ **Autonomous Maintenance Robot**  
+- 🛠️ **ROS-Based Autonomous Inspection Robot for Industrial Safety**  
   ROS2 | SLAM | Nav2 | YOLO | LiDAR  
-  > An autonomous mobile robot for industrial safety. Detects gas leaks, recognizes people, logs sensor data.
+  > An autonomous SLAM-based inspection robot built with ROS 2, designed for safe navigation and environmental monitoring in industrial settings, capable of mapping, obstacle avoidance, and hazard detection with real-time data logging and visualization.
 
+- ✈️ **Autonomous Drone for Industrial Inspection and Emergency Response**  
+  ROS2 | MavRos | Mission Planner | YOLO  
+  >An intelligent autonomous drone designed for industrial inspection, emergency response, and surveillance,
+   capable of detecting hazards like gas leaks, flames, and structural damage while providing real-time data through a live dashboar
+  
 - 🛰️ **CanSat Mission**  
   ESP32 | Node-RED | GPS | IMU | Barometer  
   > Onboard software + ground control dashboard. Manages parachute deployment & real-time telemetry.
