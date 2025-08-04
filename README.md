@@ -5,6 +5,9 @@
   <a href="https://github.com/Chirag-Sharma-04"><img src="https://img.shields.io/github/followers/Chirag-Sharma-04?label=GitHub&style=social" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/chirag-sharma-cs"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" /></a>
   <a href="mailto:chiragcs2004@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20me-red?style=flat&logo=gmail" alt="Email" /></a>
+   <a href="https://drive.google.com/file/d/1vIJ1_HDoYvGCtxvr2xkYRrmEiyfgqOP_/view?usp=sharing"><img src="https://img.shields.io/badge/Projects-View%20Work-brightgreen?style=flat&logo=robotframework" alt="Projects" />
+  </a>
+  
 </p>
 
 ---
